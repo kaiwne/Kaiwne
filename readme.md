@@ -13,5 +13,5 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ##
-### 📚 My fun projects (Althought nothing fun in it, XD)
+### 📚 My fun projects (Although nothing fun in it, XD)
 [![Raftocial Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tankira&repo=raftocial)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Tankira/Raftocial))
