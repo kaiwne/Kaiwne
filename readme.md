@@ -1,7 +1,7 @@
 ### 👋 Hi there, i'm Tankira! 
 * 😁 15 years old
 * 🇻🇳 From Vietnamese with love
-* 👨‍🎓 High school student
+* 👨‍🎓 Middle school student
 * 💼 Founder/Leader of Pixelraft
 
 ##
