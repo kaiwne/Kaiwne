@@ -15,5 +15,5 @@
 
 ##
 ### 📚 My fun projects (Although nothing fun in it, XD)
-[![Raftocial Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tankira&repo=raftocial)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Tankira/Raftocial))
-[![Unicraft Launcher Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tankira&repo=astralcube-launcher)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Tankira/Astralcube-Launcher))
+[![Raftocial Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tankira&repo=raftocial)](https://github.com/Tankira/Raftocial)
+[![Unicraft Launcher Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tankira&repo=astralcube-launcher)](https://github.com/Tankira/Astralcube-Launcher)
